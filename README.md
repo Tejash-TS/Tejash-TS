@@ -55,9 +55,24 @@ I am passionate about **DevOps, Cloud Computing, Java Backend Development, and P
 <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,aws,azure,git,github,linux"/>
 </p>
 
-### Monitoring & Security
+### 📊 Monitoring & Security
 
-**SonarQube • Prometheus • Grafana • Datadog • Trivy • OWASP Dependency-Check**
+<p align="left">
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP%20Dependency--Check-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</p>
+
 
 ### Databases
 
