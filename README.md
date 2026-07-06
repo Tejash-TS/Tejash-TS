@@ -1,88 +1,153 @@
-# Hi, I'm Tejash Sananse 👋
+# Hi there, I'm Tejash Sananse 👋
 
 <p align="center">
-  <b>Computer Engineering Student • DevOps Engineer • Cloud Enthusiast • Java Developer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+DevOps+%26+Cloud+Engineer;Java+Developer;Building+Scalable+Cloud-Native+Applications;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tejash-TS&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer Engineering student from 🇮🇳 India passionate about **DevOps, Cloud Computing, Backend Development, and Automation**. I enjoy building scalable applications, designing CI/CD pipelines, and deploying cloud-native solutions using modern DevOps tools.
+I'm a **Computer Engineering student** from **India 🇮🇳** passionate about **DevOps, Cloud Computing, Java Backend Development, and Automation**.
 
-* 🔭 Currently building **production-ready DevOps projects** using Jenkins, Docker, Kubernetes, Terraform, and AWS
-* 🌱 Learning **Platform Engineering, Kubernetes, Terraform, Azure, and DevSecOps**
-* 👯 Looking to collaborate on **Open Source, DevOps, Cloud, and Java projects**
+I enjoy building scalable cloud-native applications, automating CI/CD pipelines, and deploying production-ready infrastructure using modern DevOps tools.
+
+* 🔭 Currently working on **DevOps, Kubernetes, Jenkins, Docker, Terraform & AWS**
+* 🌱 Learning **Platform Engineering, Azure, DevSecOps & Cloud Security**
+* 🤝 Open to collaborating on **Open Source, DevOps, Cloud & Java projects**
 * 💬 Ask me about **Java, Jenkins, Docker, Kubernetes, AWS, Terraform, Git & GitHub**
-* 🎯 Career Goal: **DevOps & Cloud Engineer**
-* ⚡ Passionate about automating deployments and building reliable cloud infrastructure
+* 🎯 Goal: **DevOps & Cloud Engineer**
+* ⚡ Passionate about automation, cloud infrastructure, and continuous learning.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-Java • JavaScript • HTML5 • CSS3 • SQL • Python
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
 ### ⚙️ DevOps & Cloud
 
-Jenkins • Docker • Kubernetes • Terraform • Git • GitHub • GitHub Actions • AWS • Azure • Linux
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,aws,azure,linux,git,github" />
+</p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-MySQL • MongoDB • Amazon RDS
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### 🛠️ Tools
 
-VS Code • IntelliJ IDEA • Postman • Apache Tomcat
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🚀 End-to-End DevSecOps CI/CD Pipeline
 
-Designed and implemented a complete CI/CD pipeline using **Jenkins**, Docker, Kubernetes, SonarQube, Trivy, OWASP Dependency-Check, Docker Hub, and AWS. Automated code quality analysis, security scanning, container image creation, and Kubernetes deployment.
+* Automated CI/CD using **Jenkins**
+* Integrated **SonarQube**, **OWASP Dependency-Check**, and **Trivy** for security scanning
+* Built and pushed Docker images to **Docker Hub**
+* Deployed applications to **Kubernetes on AWS**
+* Automated testing, image scanning, and production deployment
+
+---
 
 ### 🌾 Smart Agriculture Platform (Smart India Hackathon)
 
-Built and deployed a cloud-native microservices application using **Docker, Kubernetes, Terraform, AWS, FastAPI, PHP, and MySQL** with auto-scaling, persistent storage, and AI-powered disease detection.
+* Dockerized microservices architecture
+* Kubernetes deployment with persistent storage
+* Infrastructure provisioning using Terraform
+* AWS cloud deployment
+* AI-powered crop disease detection
+* Real-time farmer communication platform
 
-### ☁️ AWS Multi-Tier Architecture Deployment
+---
 
-Deployed a production-ready application on AWS using **EC2, RDS, S3, CloudFront, VPC, Load Balancer, Auto Scaling, CloudWatch, and Apache Tomcat**.
+### ☁️ AWS Multi-Tier Architecture
+
+* EC2
+* Amazon RDS
+* S3
+* CloudFront
+* VPC
+* Load Balancer
+* Auto Scaling
+* CloudWatch
+* Apache Tomcat
+
+---
 
 ### 🎓 Student Result Management System
 
-Developed a Java Servlet & MySQL-based web application featuring role-based authentication, marks management, and automated result generation.
+Java Servlet & MySQL based web application with role-based authentication, automated result generation, and optimized database performance.
+
+---
 
 ### ✍️ CNC Writing Machine
 
-Led a six-member team to develop an IoT-based CNC Writing Machine, securing **3rd Prize** in Inter-College Project Competitions.
+Led a six-member team to develop an IoT-based CNC Writing Machine and secured **3rd Prize** at the Inter-College Project Competition and IoT Project Exhibition.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-(Add GitHub Stats Card)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tejash-TS&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejash-TS&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-(Add GitHub Trophies)
-
-## 📈 Contribution Graph
-
-(Add GitHub Activity Graph)
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: **linkedin.com/in/tejash-sananse**
-* 💻 GitHub: **github.com/Tejash-TS**
-* 📧 Email: **[sanansetejash51@gmail.com](mailto:sanansetejash51@gmail.com)**
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Tejash-TS&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-> **"Automating infrastructure, streamlining deployments, and building scalable cloud-native solutions."**
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tejash-TS&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejash-TS&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/tejash-sananse">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Tejash-TS">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+📧 **Email:** [sanansetejash51@gmail.com](mailto:sanansetejash51@gmail.com)
+
+---
+
+> **"Building reliable software, automating deployments, and engineering scalable cloud-native solutions."**
