@@ -142,13 +142,6 @@ Led a six-member team to develop an IoT-based CNC Writing Machine and secured **
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tejash-TS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
----
 
 # 📈 Contribution Graph
 
