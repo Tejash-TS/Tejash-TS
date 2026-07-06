@@ -1,87 +1,125 @@
 # Hi there, I'm Tejash Sananse 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Aspiring+DevOps+%26+Cloud+Engineer;Java+Developer;Building+Scalable+Cloud-Native+Applications;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Aspiring+DevOps+%26+Cloud+Engineer;Java+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;DevSecOps+%7C+Terraform+%7C+Prometheus+%7C+Grafana" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tejash-TS&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Tejash-TS&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Tejash-TS?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Tejash-TS?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-I'm a **Computer Engineering student** from **India 🇮🇳** passionate about **DevOps, Cloud Computing, Java Backend Development, and Automation**.
+🎓 Final Year Computer Engineering Student from India 🇮🇳
 
-I enjoy building scalable cloud-native applications, automating CI/CD pipelines, and deploying production-ready infrastructure using modern DevOps tools.
+I'm passionate about **DevOps, Cloud Computing, Java Development, Kubernetes, Infrastructure Automation, and Platform Engineering.**
 
-* 🔭 Currently working on **DevOps, Kubernetes, Jenkins, Docker, Terraform & AWS**
-* 🌱 Learning **Platform Engineering, Azure, DevSecOps & Cloud Security**
-* 🤝 Open to collaborating on **Open Source, DevOps, Cloud & Java projects**
-* 💬 Ask me about **Java, Jenkins, Docker, Kubernetes, AWS, Terraform, Git & GitHub**
-* 🎯 Goal: **DevOps & Cloud Engineer**
-* ⚡ Passionate about automation, cloud infrastructure, and continuous learning.
+I enjoy building scalable cloud-native applications, designing production-ready infrastructure, automating deployments, and implementing complete DevSecOps pipelines.
+
+* 🔭 Building End-to-End DevSecOps Projects
+* 🌱 Learning Platform Engineering & Cloud Security
+* ☁️ AWS & Azure Cloud Enthusiast
+* 🚀 Exploring Kubernetes Ecosystem
+* 📊 Interested in Monitoring & Observability
+* 🤝 Open Source Contributor
+* 💬 Ask me about Java, Jenkins, Docker, Kubernetes, Terraform & AWS
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
 </p>
 
-### ⚙️ DevOps & Cloud
+## DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,terraform,aws,azure,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,azure,git,github,linux"/>
 </p>
 
-### 🗄️ Database
+## Monitoring & Observability
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana,datadog"/>
 </p>
 
-### 🛠️ Tools
+## Security
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sonarqube,trivy"/>
+</p>
+
+**OWASP Dependency-Check • Docker Hub • GitHub Actions**
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚀 End-to-End DevSecOps CI/CD Pipeline
+## 🚀 End-to-End DevSecOps CI/CD Pipeline
 
-* Automated CI/CD using **Jenkins**
-* Integrated **SonarQube**, **OWASP Dependency-Check**, and **Trivy** for security scanning
-* Built and pushed Docker images to **Docker Hub**
-* Deployed applications to **Kubernetes on AWS**
-* Automated testing, image scanning, and production deployment
+✔ Jenkins CI/CD Pipeline
+
+✔ SonarQube Code Quality Analysis
+
+✔ OWASP Dependency-Check
+
+✔ Trivy Container Security Scan
+
+✔ Docker Image Build & Push
+
+✔ Kubernetes Deployment
+
+✔ Terraform Infrastructure Automation
+
+✔ AWS Cloud Deployment
+
+✔ Prometheus Monitoring
+
+✔ Grafana Dashboards
+
+✔ Datadog Infrastructure Monitoring
 
 ---
 
-### 🌾 Smart Agriculture Platform (Smart India Hackathon)
+## 🌾 Smart Agriculture Platform (Smart India Hackathon)
 
-* Dockerized microservices architecture
-* Kubernetes deployment with persistent storage
-* Infrastructure provisioning using Terraform
-* AWS cloud deployment
-* AI-powered crop disease detection
-* Real-time farmer communication platform
+• Dockerized Microservices
+
+• Kubernetes Deployment
+
+• Terraform Infrastructure
+
+• AWS Cloud
+
+• AI Crop Disease Detection
+
+• FastAPI + PHP + MySQL
+
+• Persistent Storage
+
+• Auto Scaling
 
 ---
 
-### ☁️ AWS Multi-Tier Architecture
+## ☁️ AWS Multi-Tier Architecture
 
 * EC2
 * Amazon RDS
-* S3
 * CloudFront
+* S3
 * VPC
 * Load Balancer
 * Auto Scaling
@@ -90,26 +128,24 @@ I enjoy building scalable cloud-native applications, automating CI/CD pipelines,
 
 ---
 
-### 🎓 Student Result Management System
+## 🎓 Student Result Management System
 
-Java Servlet & MySQL based web application with role-based authentication, automated result generation, and optimized database performance.
-
----
-
-### ✍️ CNC Writing Machine
-
-Led a six-member team to develop an IoT-based CNC Writing Machine and secured **3rd Prize** at the Inter-College Project Competition and IoT Project Exhibition.
+Java Servlet + MySQL web application featuring role-based authentication, result management, and automated marksheet generation.
 
 ---
 
-# 📊 GitHub Stats
+## ✍️ CNC Writing Machine
+
+Led a six-member team to develop an IoT-based CNC Writing Machine and secured **3rd Prize** at the Inter-College Project Competition.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejash-TS&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejash-TS&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejash-TS&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejash-TS&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -121,7 +157,7 @@ Led a six-member team to develop an IoT-based CNC Writing Machine and secured **
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tejash-TS&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tejash-TS&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -136,7 +172,7 @@ Led a six-member team to develop an IoT-based CNC Writing Machine and secured **
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/tejash-sananse">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -144,10 +180,12 @@ Led a six-member team to develop an IoT-based CNC Writing Machine and secured **
 <a href="https://github.com/Tejash-TS">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
 
-📧 **Email:** [sanansetejash51@gmail.com](mailto:sanansetejash51@gmail.com)
+<a href="mailto:sanansetejash51@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-> **"Building reliable software, automating deployments, and engineering scalable cloud-native solutions."**
+> **"Automating infrastructure, securing applications, and building scalable cloud-native solutions through DevOps."**
