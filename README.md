@@ -105,11 +105,7 @@ Led a six-member team to build an IoT-based CNC Writing Machine — won **3rd Pr
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tejash-TS&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Tejash-TS&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
-</p>
 
 ## 📈 Contribution Graph
 
