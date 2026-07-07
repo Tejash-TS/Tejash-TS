@@ -120,7 +120,7 @@ Led a six-member team to build an IoT-based CNC Writing Machine — won **3rd Pr
   &nbsp;&nbsp;
   <a href="https://github.com/Tejash-TS"><img src="https://skillicons.dev/icons?i=github"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:sanansetejash51@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sanansetejash51@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 ---
