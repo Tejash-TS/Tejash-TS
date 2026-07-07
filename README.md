@@ -78,7 +78,7 @@ I am passionate about **DevOps, Cloud Computing, Java Backend Development, and P
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea"/>
 </p>
 
 ---
