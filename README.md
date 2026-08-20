@@ -1,7 +1,7 @@
 # Hi there, I'm Tejash Sananse 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Aspiring+DevOps+%26+Cloud+Engineer;Java+Backend+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;DevSecOps+%7C+SonarQube+%7C+Terraform;Prometheus+%7C+Grafana+%7C+Datadog" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+%26+Cloud+Engineer;Java+Backend+Developer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;DevSecOps+%7C+SonarQube+%7C+Terraform;Prometheus+%7C+Grafana+%7C+Datadog" />
 </p>
 
 <p align="center">
