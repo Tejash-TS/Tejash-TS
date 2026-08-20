@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-🎓 Final year Computer Engineering student from **India 🇮🇳**
+
 
 Passionate about **DevOps, Cloud Computing, Java Backend Development, and Platform Engineering**. I enjoy building scalable applications, automating deployments, implementing DevSecOps practices, and managing cloud infrastructure end to end.
 
